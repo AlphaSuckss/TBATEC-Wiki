@@ -1,7 +1,7 @@
 ---
 title: "Oludari of Truacia"
 description: "Oludari Vritra, Sovereign of Truacia: reclusive, quick to panic, no fighter."
-order: "29"
+order: "33"
 icon: "/img/item/minecraft/chain.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

@@ -1,7 +1,7 @@
 ---
 title: "The Victoriad"
 description: "Vechor's great tournament, held in its coliseum before tens of thousands."
-order: "30"
+order: "34"
 icon: "/img/item/minecraft/goat_horn.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

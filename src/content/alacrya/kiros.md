@@ -1,7 +1,7 @@
 ---
 title: "Kiros of Vechor"
 description: "Kiros Vritra, Sovereign of Vechor and host of the Victoriad: golden-haired, decadent, a coward, and in love with a spectacle."
-order: "27"
+order: "31"
 icon: "/img/item/tbatec/kalons_spear.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

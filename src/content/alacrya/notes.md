@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 description: "From the books: the four tiers mark, crest, emblem and regalia; each rune granting one spell, Alacryans knowing fewer spells but stronger ones; runes along the spine from just…"
-order: "31"
+order: "35"
 icon: "/img/item/minecraft/writable_book.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

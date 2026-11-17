@@ -1,7 +1,7 @@
 ---
 title: "Notes"
 description: "From the novels: who the four are and where they stood in the story; Virion's Shadow Panther will and his panther form; that he trained Arthur's will in Zestier through real…"
-order: "6"
+order: "7"
 icon: "/img/item/minecraft/writable_book.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

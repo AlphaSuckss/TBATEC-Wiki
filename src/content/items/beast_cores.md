@@ -24,7 +24,7 @@ Each class refines a share of your current shade, and takes longer to absorb:
 
 ## Using Them
 
-You need a core to absorb one, and a White core takes no more. Refinement stops at a [trial](/mana_core/trials) until you pass it.
+A core's mana <span class="thing">fills you first</span>; only what you cannot hold refines. Each one stretches your capacity a little too (0.1% for an A-class). You need a core to absorb one, and a White core takes no more. Refinement stops at a [trial](/mana_core/trials) until you pass it.
 
 Feed a core to a companion for experience and loyalty, or use it to bind a beast: see [Contracts](/companions/contracts).
 

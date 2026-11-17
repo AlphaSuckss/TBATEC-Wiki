@@ -1,7 +1,7 @@
 ---
 title: "Orlaeth of Sehz-Clar"
 description: "Orlaeth Vritra, Sovereign of Sehz-Clar, has two heads, each under a mop of dark hair with two horns on its outer side; the left is the elder, with two stubs on its inner side."
-order: "28"
+order: "32"
 icon: "/img/item/minecraft/amethyst_shard.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

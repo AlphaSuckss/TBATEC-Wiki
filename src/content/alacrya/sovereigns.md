@@ -1,7 +1,7 @@
 ---
 title: "The Sovereigns"
 description: "Each of Alacrya's dominions has a Sovereign: a full-blooded basilisk of the Vritra clan who rules it for Agrona, above its Scythe."
-order: "26"
+order: "30"
 icon: "/img/item/tbatec/horn_fragment.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

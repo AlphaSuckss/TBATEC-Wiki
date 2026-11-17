@@ -54,6 +54,12 @@ The rest, from bears and oxen to the creatures of the Relictombs, carry raw mana
 
 Creative play is free.
 
+## Your Own Forge
+
+**Your own forge**: a <span class="thing">dwarf</span>, or anyone [Wren Kain](/mentors/wren_kain) has taught, can set and draw cores without a smith. **Sneak and use** a smithing table: the same bench opens, and there is no fee. Stay within 8 blocks of the table.
+
+&#8203;<span class="thing">Invented</span>: the novel's dwarves forged cores into steel; working it at your own table is the mod's.
+
 ## Drawing Out
 
 Only a smith takes a core out again: click a set core with the core box empty (or with a new core in it, to swap). Some of its mana stays in the steel, so it comes back **a class weaker**, keeping its attribute; an E-class core crumbles.

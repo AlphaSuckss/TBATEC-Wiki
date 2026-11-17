@@ -82,6 +82,10 @@ Patrols walk Alacrya's wilds, never within 96 blocks of a city, at most two near
 
 **In towns** the guards and ascenders let everyone be, until you attack anyone there or, raised in Dicathen, cast a spell. Dicathen's guards and Alacrya's soldiers always fight.
 
+## Stray Blows
+
+**A stray blow**: raised in Alacrya, hit an allied soldier once (a wide spell catching them, say) and they shrug it off with a warning. Hit them again within 10 s and they and their squad turn on you.
+
 ## War-Camp Work
 
 Raised in Alacrya, talk to a war camp's <span class="thing">Camp Officer</span> (any soldier there points you to them) for work. **Escort**: walk a supply courier and its pack donkey down the road toward the nearest city to a relay post (green sparkles), up to 140 blocks. The courier waits while you are over 20 blocks away; part way an ambush comes and the courier takes cover until you clear it.

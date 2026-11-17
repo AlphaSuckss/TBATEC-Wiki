@@ -16,6 +16,16 @@ Vivum, its destruction branch. Arthur won it on a black platform against a shado
 
 **The Pull**: each use pushes toward madness (+3 a tap, +1 a second held, -1 every 8 s; the Regis gauntlet halves it). At 30 the power high (+25% damage, allies no longer spared); at 60 frenzy (the flame leaps to the nearest living thing); at 90 it tears away and leaves you hollow for 20 s.
 
+## Regis and the Flame
+
+Regis is what holds Destruction back. He is <span class="thing">with you</span> when the Regis gauntlet is on or in hand, or when he is born and not resting in your shadow.
+
+Hold the flame **without him** and it burns you too: 6% of your health every second, until you let go or your aether runs out.
+
+**With him**, the <span class="item">aether blade</span> takes the flame: in your hand, with Destruction woken, every blow carries three quarters of the wreath's damage and its unmaking, no tap needed, and adds 1 Pull. Without Regis the blade stays plain.
+
+&#8203;<span class="thing">Invented</span>: the imbued blade and the burn's numbers.
+
 ## The Living Flame
 
 The flame destroys anything it touches, and what it sets alight burns on, block to touching block, until it has eaten its <span class="thing">measure</span>: 384-1,536 blocks past what a cone burns, 12,000-48,000 for an Unleash. Stone, obsidian, water, lava, warded ground, chests (they spill): all of it.

@@ -1,14 +1,14 @@
 ---
 title: "The Mentors"
-description: "Four people of the story will teach you, if you find them and they think you worth it: Virion Eralith: the beast-will mentor, in Zestier Elder Rinia: a seer, at Zestier's edge…"
+description: "Five people of the story will teach you, if you find them and they think you worth it: Virion Eralith: the beast-will mentor, in Zestier Elder Rinia: a seer, at Zestier's edge…"
 order: "1"
 icon: "/img/item/tbatec/virion_spawn_egg.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->
 
-Four people of the story will teach you, if you find them and they think you worth it:
+Five people of the story will teach you, if you find them and they think you worth it:
 
-**[Virion Eralith](/mentors/virion)**: the beast-will mentor, in Zestier<br>**[Elder Rinia](/mentors/rinia)**: a seer, at Zestier's edge<br>**[Windsom](/mentors/windsom)**: the guide to Epheotus, at its arrival shrine<br>**[Kordri](/mentors/kordri)**: the asura who trains warriors, under Mount Geolus
+**[Virion Eralith](/mentors/virion)**: the beast-will mentor, in Zestier<br>**[Elder Rinia](/mentors/rinia)**: a seer, at Zestier's edge<br>**[Windsom](/mentors/windsom)**: the guide to Epheotus, at its arrival shrine<br>**[Kordri](/mentors/kordri)**: the asura who trains warriors, under Mount Geolus<br>**[Wren Kain IV](/mentors/wren_kain)**: the titan artificer, on Grandus Hold
 
 ## Talking
 

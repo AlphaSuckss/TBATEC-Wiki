@@ -1,7 +1,7 @@
 ---
 title: "Creative Items"
 description: "The creative tab holds a spawn egg for every beast and for each of the kin."
-order: "23"
+order: "24"
 icon: "/img/item/tbatec/debug_bolt.png"
 ---
 <!-- Generated from the in-game Codex by the TBATEC tools; edit the Codex, not this file. -->

@@ -18,7 +18,7 @@ Refinement needed for each next step, Black to Silver:<br>**Black**: 2,500 / 3,3
 
 All told, about 637,000 refinement (some 318,000 mana spent) lies between dark Black and White: the trials, not the grind, are what hold you back.
 
-The fastest road is the cores of mana beasts: hold use with a [beast core](/items/beast_cores) to absorb it, from 4% of a shade (E-class) to twice a shade (asuran).
+The fastest road is the cores of mana beasts: hold use with a [beast core](/items/beast_cores) to absorb it, from 4% of a shade (E-class) to twice a shade (asuran). Its mana fills your core first; only what your core cannot hold refines it, so draw cores in at full mana. Every core also stretches your core a little: a tenth of a percent for an A-class.
 
 Refinement stops at the end of each colour until you pass its [trial](/mana_core/trials).
 
