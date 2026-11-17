@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/kordri_spawn_egg.png"
 
 ## Kordri
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/kordri.png" alt="Kordri" loading="lazy"><div>
+
 Clan Thyestes' trainer of warriors, with four hazel eyes.
+
+</div></div>
 
 ## Where
 

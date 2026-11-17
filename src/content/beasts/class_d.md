@@ -24,7 +24,11 @@ Beasts that carry a <span class="thing">D-class</span> core.
 
 ## Skitter
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/skitter.png" alt="Skitter" loading="lazy"><div>
+
 Sand-yellow, spiked lizards that pull carts up mountain roads and carry scouts.
+
+</div></div>
 
 40 health, bites for 5. Neutral, groups of 1-3. Steps up 1.5 blocks.<br>**Found**: savannas, badlands, Darv, deserts, windswept hills, the Beast Glades; Epheotus: Hamadryad Grove.<br>**Bond**: any meat, or a core. **Ride**: Lunge.<br>**Drops**: Skitter Scute; leather, bone.
 
@@ -32,7 +36,11 @@ Sand-yellow, spiked lizards that pull carts up mountain roads and carry scouts.
 
 ## Batrunner
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/batrunner.png" alt="Batrunner" loading="lazy"><div>
+
 Wingless undead bats of the Dire Tombs that rise again from their own ashes.
+
+</div></div>
 
 14 health, bites for 4. Hostile by night, groups of 3-6. **Pounce**. **Rise from Ash**: its first death leaves only ash; it rises at half health.<br>**Found**: forests, mountains and the Beast Glades, by night.<br>**Bond**: by force only.<br>**Drops**: Batrunner Wing; bone, flint.
 
@@ -40,7 +48,11 @@ Wingless undead bats of the Dire Tombs that rise again from their own ashes.
 
 ## Deadly Shrew
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/deadly_shrew.png" alt="Deadly Shrew" loading="lazy"><div>
+
 Puma-sized Relictombs shrews with violet aether claws that tunnel up in hordes.
+
+</div></div>
 
 14 health, bites for 4. Hostile, groups of 4-6. **Burrow**: tunnels under you and bursts up. **Pounce**.<br>**Found**: the Relictombs only.<br>**Bond**: by force only.<br>**Drops**: Aether Mote (25%), Aether-sheathed Claw (30%); rabbit hide.
 
@@ -48,7 +60,11 @@ Puma-sized Relictombs shrews with violet aether claws that tunnel up in hordes.
 
 ## Clawed Equine
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/clawed_equine.png" alt="Clawed Equine" loading="lazy"><div>
+
 Lanceler Academy's student mounts: here, war-horses on taloned raptor's feet.
+
+</div></div>
 
 36 health, kicks for 6, 2 armour. Neutral, groups of 3-5. **Roar**: a scream that slows.<br>**Found**: Sapin, plains and savannas.<br>**Bond**: any meat, or a core. **Ride**: Roar, Lunge.<br>**Drops**: Equine Talon; leather.<br>*Only named in the novel; the look is ours.*
 
@@ -56,6 +72,10 @@ Lanceler Academy's student mounts: here, war-horses on taloned raptor's feet.
 
 ## Fanged Hound
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/fanged_hound.png" alt="Fanged Hound" loading="lazy"><div>
+
 A drooling, pony-sized mastiff; in a border tavern, Mica took one for two people.
+
+</div></div>
 
 40 health, bites for 7, 2 armour. Neutral, groups of 1-3. Its bite may slow. **Roar**: weakens.<br>**Found**: taiga and oak and birch forests.<br>**Bond**: meat or bones, or a core.<br>**Drops**: Hound Fang; bone, leather.<br>*(The novel never names it; the name is ours.)*

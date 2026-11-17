@@ -24,7 +24,11 @@ Beasts that carry an <span class="thing">AA-class</span> core. Every one is a bo
 
 ## Hades Serpent
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/hades_serpent.png" alt="Hades Serpent" loading="lazy"><div>
+
 A hundred-foot grey serpent with blue fire down its spine, master of Hell's Jaw.
+
+</div></div>
 
 260 health, bites for 18, 10 armour, fireproof. Hostile, alone. **Soulfire Breath**: sears past armour. Missiles do 60%. <span class="thing">Corrupted</span>: withering black flame.<br>**Found**: swamps, the deep dark, the Darv Abyss, the Glades Depths.<br>**Bond**: by force only.<br>**Drops**: Hades Serpent Scale; bone, blaze powder, soul sand.
 
@@ -32,7 +36,11 @@ A hundred-foot grey serpent with blue fire down its spine, master of Hell's Jaw.
 
 ## Shadow Panther
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/shadow_panther.png" alt="Shadow Panther" loading="lazy"><div>
+
 AA-class panthers of shadow; Virion bears the will of one for its speed and stealth.
+
+</div></div>
 
 180 health, bites for 16, 4 armour, fast. Hostile, alone. **Fade**: in the dark; first blow from hiding 60% harder. **Pounce**.<br>**Found**: dark forests, jungles, the Glades Depths, the Beast Lair; Epheotus: Basilisk Spires, Kothan.<br>**Bond**: a core. **Ride**: Pounce, Lunge.<br>**Drops**: Shadow Panther Pelt; leather, black dye, ender pearl (20%).
 
@@ -40,6 +48,10 @@ AA-class panthers of shadow; Virion bears the will of one for its speed and stea
 
 ## Shadow Prowler
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/shadow_stalker.png" alt="Shadow Prowler" loading="lazy"><div>
+
 Only named in the novel. Ours climbs the deep dark and drinks what it bites.
+
+</div></div>
 
 200 health, bites for 17, 6 armour, fast, climbs. Hostile, alone. **Fade**, **Stalk**, **Ambush Leap**: withers all where it lands. Heals on its bites.<br>**Found**: deep caves, the Darv Abyss, the Halls of Kothan.<br>**Bond**: by force only.<br>**Drops**: Shadow Prowler Eye (35%); black dye, ender pearl, echo shard (15%).

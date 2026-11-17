@@ -14,7 +14,11 @@ Agrona's Wraiths kill asura. Grow strong enough and he sends a squad after you: 
 
 ## Wraith
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/wraith_hunter.png" alt="Wraith" loading="lazy"><div>
+
 A hunting squad's Wraith: horns, red eyes, black plate.
+
+</div></div>
 
 ## Warning
 

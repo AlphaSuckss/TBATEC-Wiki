@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/gate_keeper_spawn_egg.png"
 
 ## Gate Keeper
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/gate_keeper.png" alt="Gate Keeper" loading="lazy"><div>
+
 A warden of the city gates.
+
+</div></div>
 
 ## Where
 

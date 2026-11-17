@@ -10,7 +10,11 @@ Vechor's great tournament, held in its coliseum before tens of thousands. The bl
 
 ## The Herald
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/victoriad_herald.png" alt="The Herald" loading="lazy"><div>
+
 He keeps the roll by the champions' gate.
+
+</div></div>
 
 ## Registering
 
@@ -26,7 +30,11 @@ Called, come down to the sand. A bout ends at a fifth of a fighter's health (no 
 
 ## Champions
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/victoriad_duellist.png" alt="Champions" loading="lazy"><div>
+
 A champion of the bloods.
+
+</div></div>
 
 ## Prizes
 

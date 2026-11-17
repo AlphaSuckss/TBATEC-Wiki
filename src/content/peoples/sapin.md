@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/sapin_knight_spawn_egg.png"
 
 ## Sapin Townsfolk
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/sapin_villager.png" alt="Sapin Townsfolk" loading="lazy"><div>
+
 Sapin's townsfolk: farmers, traders, tavern keepers, smiths and fishermen.
+
+</div></div>
 
 ## Trades
 
@@ -20,7 +24,11 @@ A human pays a quarter less.
 
 ## Adventurer
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/adventurer.png" alt="Adventurer" loading="lazy"><div>
+
 Adventurers of the Guild between jobs: spear, staff, blade, bow or bare fists.
+
+</div></div>
 
 ## Adventurer
 
@@ -28,7 +36,11 @@ Adventurers of the Guild between jobs: spear, staff, blade, bow or bare fists.
 
 ## Mercenary
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/mercenary.png" alt="Mercenary" loading="lazy"><div>
+
 Sellswords in mail and worn gambesons, hired to guard merchants and gates.
+
+</div></div>
 
 ## Mercenary
 
@@ -36,7 +48,11 @@ Sellswords in mail and worn gambesons, hired to guard merchants and gates.
 
 ## Sapin Knight
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/sapin_knight.png" alt="Sapin Knight" loading="lazy"><div>
+
 Sapin's knights: plate under the crown's crimson, ermine and gold.
+
+</div></div>
 
 ## Sapin Knight
 
@@ -46,7 +62,11 @@ Knights never wander the plains: they hold posts in the Keeps of Sapin and its w
 
 ## Quest Master
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/sapin_quest_master.png" alt="Quest Master" loading="lazy"><div>
+
 He trades arms and armour for trophies of the hunt. Every bounty stays posted.
+
+</div></div>
 
 ## Bounties
 

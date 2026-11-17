@@ -12,7 +12,11 @@ Their trades are rich and dear: aether and old lore, gems and forged steel, pear
 
 ## Dragon Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_dragon.png" alt="Dragon Asura" loading="lazy"><div>
+
 Townsfolk of Castle Indrath, Everburn, Lady Myre's cottage, the Geolus climb.
+
+</div></div>
 
 ## Dragon Asura
 
@@ -20,7 +24,11 @@ Clan Indrath's white and gold, Kezess's silvery hair and lavender eyes, glossy s
 
 ## Dragon Guard
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_dragon_warrior.png" alt="Dragon Guard" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Dragon Guard
 
@@ -28,7 +36,11 @@ Plate grown from their own white scales, a scaled helm, longspear and tower shie
 
 ## Basilisk Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_basilisk.png" alt="Basilisk Asura" loading="lazy"><div>
+
 Townsfolk of the Kothan Halls.
+
+</div></div>
 
 ## Basilisk Asura
 
@@ -36,7 +48,11 @@ Clan Kothan: horns that differ in every one, blood-clot red eyes, ashen skin, bl
 
 ## Basilisk Warrior
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_basilisk_warrior.png" alt="Basilisk Warrior" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Basilisk Warrior
 
@@ -44,7 +60,11 @@ Blood-iron plate or black spikes. **Soulfire**: black fire that clings and burns
 
 ## Pantheon Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_pantheon.png" alt="Pantheon Asura" loading="lazy"><div>
+
 Townsfolk of Battle's End.
+
+</div></div>
 
 ## Pantheon Asura
 
@@ -52,7 +72,11 @@ Clan Thyestes: four eyes (and Ademir's purple eyes on the sides of the head), th
 
 ## Pantheon Warrior
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_pantheon_warrior.png" alt="Pantheon Warrior" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Pantheon Warrior
 
@@ -60,7 +84,11 @@ Taci's red training clothes and blood-red spear, Kordri's bare hands, Aldir's si
 
 ## Phoenix Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_phoenix.png" alt="Phoenix Asura" loading="lazy"><div>
+
 Townsfolk of Featherwalk Aerie and the Hearth.
+
+</div></div>
 
 ## Phoenix Asura
 
@@ -68,7 +96,11 @@ Clan Avignis: true-flame or smoky hair, orange eyes, feather-stem markings glowi
 
 ## Phoenix Warrior
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_phoenix_warrior.png" alt="Phoenix Warrior" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Phoenix Warrior
 
@@ -76,7 +108,11 @@ Feathered armour of fire and ash. **Sunfire Nova**: a ring of fire that mends th
 
 ## Titan Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_titan.png" alt="Titan Asura" loading="lazy"><div>
+
 Townsfolk of Grandus Hold (and the Hearth).
+
+</div></div>
 
 ## Titan Asura
 
@@ -84,7 +120,11 @@ Clan Grandus: head and shoulders above any lesser, stone-rough hands, bushy bear
 
 ## Titan Warrior
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_titan_warrior.png" alt="Titan Warrior" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Titan Warrior
 
@@ -92,7 +132,11 @@ Evascir's earthen armour and red stone staff, or black diamond. **Titan's Fist**
 
 ## Hamadryad Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_hamadryad.png" alt="Hamadryad Asura" loading="lazy"><div>
+
 Townsfolk of Mapellia Grove.
+
+</div></div>
 
 ## Hamadryad Asura
 
@@ -100,7 +144,11 @@ Clan Mapellia: tree-tall, wood-grained skin, green ringlets, butter-yellow eyes,
 
 ## Hamadryad Warden
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_hamadryad_warrior.png" alt="Hamadryad Warden" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Hamadryad Warden
 
@@ -108,7 +156,11 @@ Ironwood bark and living leaves. **Ironwood Spears**: spears burst up in a line,
 
 ## Leviathan Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_leviathan.png" alt="Leviathan Asura" loading="lazy"><div>
+
 Townsfolk of Ecclesia.
+
+</div></div>
 
 ## Leviathan Asura
 
@@ -116,7 +168,11 @@ Clan Eccleiah: blue and green skin, gill ridges at the temples, bright flowing c
 
 ## Leviathan Warrior
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_leviathan_warrior.png" alt="Leviathan Warrior" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Leviathan Warrior
 
@@ -124,7 +180,11 @@ Zelyna's etched leather and knitted scales, twin shortswords or tridents. **Tida
 
 ## Sylph Asura
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_sylph.png" alt="Sylph Asura" loading="lazy"><div>
+
 Townsfolk of the Aerind Pavilions.
+
+</div></div>
 
 ## Sylph Asura
 
@@ -132,7 +192,11 @@ Clan Aerind: small, half-corporeal, pale blue skin, white hair floating like a c
 
 ## Sylph Wind-Dancer
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_sylph_warrior.png" alt="Sylph Wind-Dancer" loading="lazy"><div>
+
 Keeps the peace of the seat with its race's arts.
+
+</div></div>
 
 ## Sylph Wind-Dancer
 

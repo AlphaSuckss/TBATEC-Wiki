@@ -14,7 +14,11 @@ The playable Wraith race is the mod's own and has nothing to do with them.
 
 ## Wraith
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/vritra_wraith.png" alt="Wraith" loading="lazy"><div>
+
 A Wraith of a squad; each member has its own look and arts.
+
+</div></div>
 
 ## The Squad
 

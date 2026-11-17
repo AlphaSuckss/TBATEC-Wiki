@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/rinia_spawn_egg.png"
 
 ## Elder Rinia
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/rinia.png" alt="Elder Rinia" loading="lazy"><div>
+
 An aged elf seer, Virion's old friend. Sly and kindly.
+
+</div></div>
 
 ## Readings
 

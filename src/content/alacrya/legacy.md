@@ -12,7 +12,11 @@ icon: "/img/item/tbatec/cecilias_battle_robes_chestplate.png"
 
 ## Cecilia
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/legacy_cecilia.png" alt="Cecilia" loading="lazy"><div>
+
 Tessia's body in emerald battle robes, runes glowing on her arms.
+
+</div></div>
 
 ## Mana Answers to Her
 

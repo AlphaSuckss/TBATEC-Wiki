@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/emitter_healer_spawn_egg.png"
 
 ## Emitter Healer
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/emitter_healer.png" alt="Emitter Healer" loading="lazy"><div>
+
 A field medic of the Wall, an emitter.
+
+</div></div>
 
 ## Where
 

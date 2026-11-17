@@ -14,23 +14,43 @@ Etril's soldiers wear a black quilted gambeson cut open down the spine, so the b
 
 ## Striker
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_striker.png" alt="Striker" loading="lazy"><div>
+
 Sprints in, blinks from 6-14 blocks, keeps its aura up; badly hurt, it falls back.
+
+</div></div>
 
 ## Caster
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_caster.png" alt="Caster" loading="lazy"><div>
+
 Holds 10-18 blocks off, backs away behind its front, never fires through an ally.
+
+</div></div>
 
 ## Shield
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_shield.png" alt="Shield" loading="lazy"><div>
+
 Stands between you and its charge: a barrier, wards for the hurt, walls.
+
+</div></div>
 
 ## Sentry
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_sentry.png" alt="Sentry" loading="lazy"><div>
+
 Hangs back 14-22 blocks: a Reveal every 8 s, Mark Prey; first to flee.
+
+</div></div>
 
 ## Instiller
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_instiller.png" alt="Instiller" loading="lazy"><div>
+
 Keeps 6-12 blocks off, instils the Strikers' weapons, lays rune snares.
+
+</div></div>
 
 ## Ranks
 

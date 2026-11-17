@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/auctioneer_spawn_egg.png"
 
 ## Helstea Auctioneer
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/auctioneer.png" alt="Helstea Auctioneer" loading="lazy"><div>
+
 The house auctioneer at the podium.
+
+</div></div>
 
 ## The Sales
 

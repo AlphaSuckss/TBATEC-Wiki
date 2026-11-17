@@ -28,7 +28,11 @@ Fall, or stay off the campus a minute, and you are out; if all are out it is los
 
 ## Lucas Wykes
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/lucas_wykes.png" alt="Lucas Wykes" loading="lazy"><div>
+
 Bairon's half-brother, a fire prodigy fed on elixirs.
+
+</div></div>
 
 ## The Prodigy (100%)
 

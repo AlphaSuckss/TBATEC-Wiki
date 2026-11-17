@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/elven_guide_spawn_egg.png"
 
 ## Elven Guide
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/elven_guide.png" alt="Elven Guide" loading="lazy"><div>
+
 A guide of the Elshire, staff in hand.
+
+</div></div>
 
 ## Where
 

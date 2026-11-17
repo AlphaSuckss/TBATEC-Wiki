@@ -12,7 +12,11 @@ icon: "/img/item/minecraft/chain.png"
 
 ## Oludari Vritra
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/sovereign_oludari.png" alt="Oludari Vritra" loading="lazy"><div>
+
 A runaway Sovereign in grey-teal and snow fox fur.
+
+</div></div>
 
 ## The Hunt
 

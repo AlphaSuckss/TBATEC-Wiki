@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/kezess_indrath_spawn_egg.png"
 
 ## Kezess Indrath
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/kezess_indrath.png" alt="Kezess Indrath" loading="lazy"><div>
+
 Lord of Clan Indrath and of Epheotus.
+
+</div></div>
 
 ## Kezess Indrath
 

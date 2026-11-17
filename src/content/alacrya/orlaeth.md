@@ -12,7 +12,11 @@ icon: "/img/item/minecraft/amethyst_shard.png"
 
 ## Orlaeth Vritra
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/sovereign_orlaeth.png" alt="Orlaeth Vritra" loading="lazy"><div>
+
 Two heads, pearl and violet robes.
+
+</div></div>
 
 ## The Vault
 

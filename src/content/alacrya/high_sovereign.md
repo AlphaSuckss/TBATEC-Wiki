@@ -12,7 +12,11 @@ icon: "/img/item/tbatec/agronas_dagger.png"
 
 ## Agrona Vritra
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/agrona_vritra.png" alt="Agrona Vritra" loading="lazy"><div>
+
 Raven hair, red eyes, black antlers hung with gold, white dragon scale.
+
+</div></div>
 
 ## Taegrin Caelum
 

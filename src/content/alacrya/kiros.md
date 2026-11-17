@@ -12,7 +12,11 @@ icon: "/img/item/tbatec/kalons_spear.png"
 
 ## Kiros Vritra
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/sovereign_kiros.png" alt="Kiros Vritra" loading="lazy"><div>
+
 Broad and heavy, cropped golden hair, thick horns ringed in gold, red silk.
+
+</div></div>
 
 ## The Challenge
 

@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/beast_core_s.png"
 
 ## Dwarven Smith
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/dwarven_smith.png" alt="Dwarven Smith" loading="lazy"><div>
+
 A master smith of Darv. He forges beast cores into arms and armour, for emeralds.
+
+</div></div>
 
 ## Beast-core Smithing
 

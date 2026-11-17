@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/virion_spawn_egg.png"
 
 ## Virion Eralith
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/virion.png" alt="Virion Eralith" loading="lazy"><div>
+
 Once King of Elenoir; he carries a Shadow Panther's will.
+
+</div></div>
 
 ## Where
 

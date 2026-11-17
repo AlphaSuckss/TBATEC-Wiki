@@ -14,23 +14,43 @@ Helen takes on registered adventurers only: rank <span class="thing">D</span> or
 
 ## Helen Shard
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/helen_shard.png" alt="Helen Shard" loading="lazy"><div>
+
 Their leader since Reynolds; an archer.
+
+</div></div>
 
 ## Adam Krensh
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/adam_krensh.png" alt="Adam Krensh" loading="lazy"><div>
+
 The spearman, red-haired and never quiet.
+
+</div></div>
 
 ## Angela Rose
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/angela_rose.png" alt="Angela Rose" loading="lazy"><div>
+
 A wind conjurer, warm and fond of hugs.
+
+</div></div>
 
 ## Durden Walker
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/durden_walker.png" alt="Durden Walker" loading="lazy"><div>
+
 The gentle giant, an earth conjurer.
+
+</div></div>
 
 ## Jasmine Flamesworth
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/jasmine_flamesworth.png" alt="Jasmine Flamesworth" loading="lazy"><div>
+
 The youngest; a wind augmenter with twin daggers.
+
+</div></div>
 
 ## Their Ways
 

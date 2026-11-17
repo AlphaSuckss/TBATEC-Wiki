@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/elf_villager_spawn_egg.png"
 
 ## Elven Villager
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/elf_villager.png" alt="Elven Villager" loading="lazy"><div>
+
 Elven villagers live in the Forest of Elshire and in its halls and capital.
+
+</div></div>
 
 ## Trades
 
@@ -22,7 +26,11 @@ An elf pays a quarter less.
 
 ## Elven Warden
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/elf_guard.png" alt="Elven Warden" loading="lazy"><div>
+
 Wardens guard their people against anything that threatens them.
+
+</div></div>
 
 ## Elven Warden
 

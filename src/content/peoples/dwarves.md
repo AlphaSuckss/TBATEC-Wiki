@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/dwarf_villager_spawn_egg.png"
 
 ## Dwarven Villager
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/dwarf_villager.png" alt="Dwarven Villager" loading="lazy"><div>
+
 Dwarven villagers live in the wastes of Darv, its holds and its caverns.
+
+</div></div>
 
 ## Trades
 
@@ -22,7 +26,11 @@ A dwarf pays a quarter less.
 
 ## Dwarven Guard
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/dwarf_guard.png" alt="Dwarven Guard" loading="lazy"><div>
+
 Stout guards in plate and clan colours, with axe or mace and shield.
+
+</div></div>
 
 ## Dwarven Guard
 

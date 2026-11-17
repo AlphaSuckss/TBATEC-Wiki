@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/taci_spawn_egg.png"
 
 ## Taci
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/taci.png" alt="Taci" loading="lazy"><div>
+
 Taci of Clan Thyestes, Kezess's executioner.
+
+</div></div>
 
 ## The Hunt
 

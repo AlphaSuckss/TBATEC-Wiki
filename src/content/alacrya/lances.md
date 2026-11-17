@@ -12,19 +12,35 @@ At the [Flying Castle](/sites/flying_castle): Varay, Bairon, Mica and Aya, as th
 
 ## Varay Aurae
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/lance_varay.png" alt="Varay Aurae" loading="lazy"><div>
+
 "Zero": ice armour, an ice rapier, swords of ice, an ice dragon.
+
+</div></div>
 
 ## Bairon Wykes
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/lance_bairon.png" alt="Bairon Wykes" loading="lazy"><div>
+
 "Thunderlord": Thunder Lance, lightning from the sky, a cape of wire.
+
+</div></div>
 
 ## Mica Earthborn
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/lance_mica.png" alt="Mica Earthborn" loading="lazy"><div>
+
 "Ohmwrecker": gravity, Mica's World, the Black Diamond Vault.
+
+</div></div>
 
 ## Aya Grephin
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/lance_aya.png" alt="Aya Grephin" loading="lazy"><div>
+
 "Phantasm": illusion and wind, a mist that blinds, the air in your lungs.
+
+</div></div>
 
 ## Allies and Duels
 
@@ -58,7 +74,11 @@ Worn unbonded, an artifact still lends a Silver core White's mana and Mana Fligh
 
 ## Olfred Warend
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/lance_olfred.png" alt="Olfred Warend" loading="lazy"><div>
+
 "Balrog": the traitor, in his Hell's Armour.
+
+</div></div>
 
 ## Olfred Warend
 

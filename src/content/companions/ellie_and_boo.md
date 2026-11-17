@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/dwarven_recurve.png"
 
 ## Eleanor Leywin
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/eleanor_leywin.png" alt="Eleanor Leywin" loading="lazy"><div>
+
 Arthur's little sister; arrows of pure mana.
+
+</div></div>
 
 ## Meeting Them
 
@@ -18,7 +22,11 @@ Her arrows are conjured mana and do not fall; every few seconds she looses a hea
 
 ## Boo
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/guardian_bear.png" alt="Boo" loading="lazy"><div>
+
 Boo, her guardian bear, bred by the titans to guard a bond.
+
+</div></div>
 
 ## Boo
 

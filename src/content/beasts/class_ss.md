@@ -24,6 +24,10 @@ Beasts that carry an <span class="thing">SS-class</span> core. Every one is a bo
 
 ## Aether Titan
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/aether_titan.png" alt="Aether Titan" loading="lazy"><div>
+
 Nine storeys on six legs: a bat's shovel-snouted face, a long neck and tail.
+
+</div></div>
 
 950 health, bites for 30, 16 armour, slow. Hostile, alone. **Six Pillars**: break a leg (300) and it falls, head in reach (x2). **Earth Hurl**, **Aether Breath**, **Stomp**, **Tail Sweep**.<br>**Found**: the Relictombs only. Titan's field.<br>**Bond**: never.<br>**Drops**: Aether crystal, Aether Titan Scale; bone block, leather.

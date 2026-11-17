@@ -12,7 +12,11 @@ Each Scythe has a <span class="thing">retainer</span>, Vritra-blooded and terrib
 
 ## Uto
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/retainer_uto.png" alt="Uto" loading="lazy"><div>
+
 Dragoth's retainer: tall, lean, grey-blue, two black horns, one broken by Alea.
+
+</div></div>
 
 ## Uto
 
@@ -28,7 +32,11 @@ In the sealed level under the [Widow's Crypt](/sites/widows_crypt), where he kil
 
 ## Mawar
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/retainer_mawar.png" alt="Mawar" loading="lazy"><div>
+
 Melzri's retainer: very dark skin, spiked white hair, no horns.
+
+</div></div>
 
 ## Mawar
 
@@ -40,7 +48,11 @@ At <span class="thing">Melzri's Bastion</span> in Etril, between you and her mis
 
 ## Cylrit
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/retainer_cylrit.png" alt="Cylrit" loading="lazy"><div>
+
 Seris's retainer: slim, fitted black armour, a purple cape.
+
+</div></div>
 
 ## Cylrit
 
@@ -50,7 +62,11 @@ At Seris's seat. His pitch-black greatsword comes out of a black <span class="th
 
 ## Echeron
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/retainer_echeron.png" alt="Echeron" loading="lazy"><div>
+
 Dragoth's retainer after Uto: long golden hair, two short horns.
+
+</div></div>
 
 ## Echeron
 
@@ -60,7 +76,11 @@ He keeps the sand of the [Victoriad](/alacrya/victoriad). His <span class="thing
 
 ## Lyra Dreide
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/retainer_lyra.png" alt="Lyra Dreide" loading="lazy"><div>
+
 Cadell's retainer: fiery red hair, round glasses, a grey and red uniform.
+
+</div></div>
 
 ## Lyra Dreide
 
@@ -70,7 +90,11 @@ In Taegrin Caelum, before Cadell's arena. <span class="thing">Void Wind</span> (
 
 ## Jagrette
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/retainer_jagrette.png" alt="Jagrette" loading="lazy"><div>
+
 Viessa's first retainer: two ribboned tails of black hair, a doll's mask.
+
+</div></div>
 
 ## Jagrette
 
@@ -80,7 +104,11 @@ At Viessa's seat. <span class="thing">Dark hands</span> rise out of the ground u
 
 ## Draneeve
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/draneeve.png" alt="Draneeve" loading="lazy"><div>
+
 Nico's masked attendant, with his corrupted pets.
+
+</div></div>
 
 ## Draneeve
 

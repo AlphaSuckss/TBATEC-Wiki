@@ -8,15 +8,27 @@ icon: "/img/item/tbatec/alacryan_villager_spawn_egg.png"
 
 ## Townsfolk
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_villager.png" alt="Townsfolk" loading="lazy"><div>
+
 Etril's farm folk and townspeople: they trade for gold.
+
+</div></div>
 
 ## Town Guard
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_guard.png" alt="Town Guard" loading="lazy"><div>
+
 The watch of Alacrya's towns: Shields and Strikers in grey.
+
+</div></div>
 
 ## Ascender
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/ascender.png" alt="Ascender" loading="lazy"><div>
+
 Relic hunters of the Relictombs; some hide their runes.
+
+</div></div>
 
 ## Trade
 

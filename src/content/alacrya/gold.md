@@ -22,7 +22,11 @@ Contracts pay onto the card; the officiant takes offerings from it; Granbehl sel
 
 ## Teller
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/alacryan_teller.png" alt="Teller" loading="lazy"><div>
+
 Tellers of the Alacrya Bank, in Maerin and Aramoor.
+
+</div></div>
 
 ## The Bank
 

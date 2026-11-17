@@ -12,7 +12,11 @@ They are curious, they come to look at visitors, and they keep out of reach of a
 
 ## Dragon Asura Child
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/asura_dragon_child.png" alt="Dragon Asura Child" loading="lazy"><div>
+
 A dragon child. Each race's young wear its features.
+
+</div></div>
 
 ## Guarded
 

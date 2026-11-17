@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/elder_rahdeas_spawn_egg.png"
 
 ## Elder Rahdeas
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/elder_rahdeas.png" alt="Elder Rahdeas" loading="lazy"><div>
+
 An elder of Darv who served Agrona.
+
+</div></div>
 
 ## The Traitor
 

@@ -24,7 +24,11 @@ Beasts that carry an <span class="thing">E-class</span> core.
 
 ## Forest Hound
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/forest_hound.png" alt="Forest Hound" loading="lazy"><div>
+
 Elshire's antlered deer-dogs: slavers' trackers, fit for a cart but never ridden.
+
+</div></div>
 
 18 health, bites for 4. Neutral, groups of 3-5. **Pounce**: 3-7 blocks. Hunts rabbits and chickens.<br>**Found**: forests, Elshire, the Beast Glades; Epheotus: Hamadryad Grove.<br>**Bond**: sweet or glow berries, or a core.<br>**Drops**: Forest Hound Pelt; leather, raw mutton.
 
@@ -32,7 +36,11 @@ Elshire's antlered deer-dogs: slavers' trackers, fit for a cart but never ridden
 
 ## Snarler
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/snarler.png" alt="Snarler" loading="lazy"><div>
+
 Squat grey apes with boar tusks and red eyes, swarming the frozen Widow's Crypt.
+
+</div></div>
 
 22 health, hits for 4, 2 armour. Hostile by night, groups of 2-4. **Charge**: bowls you over. **Ice**: hurls chunks that slow.<br>**Found**: taiga and the snows, the Beast Glades, Widow's Crypt.<br>**Bond**: by force only.<br>**Drops**: Snarler Tusk; leather, rotten flesh.
 
@@ -40,7 +48,11 @@ Squat grey apes with boar tusks and red eyes, swarming the frozen Widow's Crypt.
 
 ## Cave Rat
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/cave_rat.png" alt="Cave Rat" loading="lazy"><div>
+
 Wolf-sized rats with red eyeshine, the ruling predators of Darv's tunnels.
+
+</div></div>
 
 12 health, bites for 3. Hostile, groups of 3-6. **Pounce**: 2-6 blocks.<br>**Found**: caves everywhere, most in the Darv Abyss; Widow's Crypt, the Hearth.<br>**Bond**: by force only.<br>**Drops**: Cave Rat Pelt; raw rabbit, bone.
 
@@ -48,7 +60,11 @@ Wolf-sized rats with red eyeshine, the ruling predators of Darv's tunnels.
 
 ## Moon Ox
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/moon_ox.png" alt="Moon Ox" loading="lazy"><div>
+
 Alacrya's cart-sized draft ox: pale blue hide shimmering, silver eyes, a mournful call.
+
+</div></div>
 
 34 health. Never fights, groups of 2-4.<br>**Found**: meadows, birch and flower forests, the outer Glades; Epheotus: Cerulean Savanna.<br>**Bond**: wheat or hay, or a core. **Ride**: Lunge; takes a chest.<br>**Drops**: Raw Moon Ox Steak; raw beef, leather.
 
@@ -56,7 +72,11 @@ Alacrya's cart-sized draft ox: pale blue hide shimmering, silver eyes, a mournfu
 
 ## Wogart
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/wogart.png" alt="Wogart" loading="lazy"><div>
+
 A meek, doe-eyed Alacryan herd beast; a clumsy novice is called a wogart.
+
+</div></div>
 
 16 health. Never fights, groups of 4-8. **Fleece**: shear it; it regrows in 3 minutes.<br>**Found**: plains, meadows and the Kingdom of Sapin.<br>**Bond**: wheat, or a core.<br>**Drops**: Wogart Fleece; raw mutton, white wool.<br>*Only named in the novel; the look is ours.*
 
@@ -64,7 +84,11 @@ A meek, doe-eyed Alacryan herd beast; a clumsy novice is called a wogart.
 
 ## Blood-red Ox
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/blood_ox.png" alt="Blood-red Ox" loading="lazy"><div>
+
 The blood-red ox of Alacrya's city streets, bred on the Relictombs' farm levels.
+
+</div></div>
 
 34 health. Never fights, groups of 2-4.<br>**Found**: savannas and plains.<br>**Bond**: wheat or hay, or a core. **Ride**: Lunge; takes a chest.<br>**Drops**: Raw Blood Ox Steak; raw beef, leather.
 
@@ -72,7 +96,11 @@ The blood-red ox of Alacrya's city streets, bred on the Relictombs' farm levels.
 
 ## Mountain Wing
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/mountain_wing.png" alt="Mountain Wing" loading="lazy"><div>
+
 Cliff swallows of shimmering black and red, darting below Castle Indrath.
+
+</div></div>
 
 8 health, flies. Never fights, groups of 4-8.<br>**Found**: Epheotus: Mount Geolus, Featherwalk Aerie, Everburn.<br>**Bond**: by force only.<br>**Drops**: Mountain Wing Feather (50%); feather.
 
@@ -80,7 +108,11 @@ Cliff swallows of shimmering black and red, darting below Castle Indrath.
 
 ## Fanged Bull
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/fanged_bull.png" alt="Fanged Bull" loading="lazy"><div>
+
 The novel's own E-class example: Sapin's farm bull, kept for meat and leather.
+
+</div></div>
 
 30 health, bites for 4. Neutral, groups of 2-4.<br>**Found**: the Kingdom of Sapin, plains, meadows, taiga.<br>**Bond**: wheat, or a core.<br>**Drops**: Fanged Bull Tusk; raw beef, leather.<br>*The look is ours.*
 
@@ -88,7 +120,11 @@ The novel's own E-class example: Sapin's farm bull, kept for meat and leather.
 
 ## Aurochs
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/aurochs.png" alt="Aurochs" loading="lazy"><div>
+
 Shaggy wild cattle that haul the refugees' great wagons through northern Sapin.
+
+</div></div>
 
 40 health, 2 armour. Never fights, groups of 2-4.<br>**Found**: Sapin, plains, meadows, taiga and the snowy north.<br>**Bond**: wheat or hay, or a core. **Ride**: Lunge; takes a chest.<br>**Drops**: Aurochs Shag, Aurochs Horn (30%); raw beef, leather.<br>*The look is ours.*
 
@@ -104,7 +140,11 @@ A trout-sized fish that glitters in Darv's dark streams. Boo gorges on them.
 
 ## Frost Snail
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/frost_snail.png" alt="Frost Snail" loading="lazy"><div>
+
 A big cave snail of Darv, rime on its shell. Its icy blue blubber soothes burns.
+
+</div></div>
 
 16 health, 8 armour, slow. Never fights, groups of 1-3. **Hunker Down**: shells up if you come near (sneak!) or hit it.<br>**Found**: dripstone caves; the Darv Abyss.<br>**Bond**: by force only.<br>**Drops**: Frost Snail Blubber, Rimed Shell Fragment (30%); snowball.<br>*The look is ours.*
 
@@ -112,6 +152,10 @@ A big cave snail of Darv, rime on its shell. Its icy blue blubber soothes burns.
 
 ## Two-tailed Monkey
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/two_tailed_monkey.png" alt="Two-tailed Monkey" loading="lazy"><div>
+
 Two-tailed monkeys that climb the jungle's vines and eat its aether fruit.
+
+</div></div>
 
 10 health, climbs. Never fights, groups of 2-5. Climbs; flees when hurt. **Fruit Thief**.<br>**Found**: the Relictombs only. Two-way jungle.<br>**Bond**: glow or sweet berries, or aether fruit, or a core.<br>**Drops**: Rabbit hide.<br>*Their colours are ours.*

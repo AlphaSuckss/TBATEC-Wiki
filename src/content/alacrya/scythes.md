@@ -16,7 +16,11 @@ Above them all, [the High Sovereign](/alacrya/high_sovereign).
 
 ## Melzri
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/scythe_melzri.png" alt="Melzri" loading="lazy"><div>
+
 Scythe of Etril: white scale, white hair, black horns, two swords.
+
+</div></div>
 
 ## Melzri
 
@@ -36,7 +40,11 @@ Each Scythe's retainer stands between you and the Scythe: Lyra before Cadell, Ec
 
 ## Cadell
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/scythe_cadell.png" alt="Cadell" loading="lazy"><div>
+
 Scythe of the Central Dominion: ash-grey, red eyes, black armour.
+
+</div></div>
 
 ## Cadell
 
@@ -48,7 +56,11 @@ The strongest of them, in Taegrin Caelum: black skin and plate, a serpentine fac
 
 ## Dragoth
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/scythe_dragoth.png" alt="Dragoth" loading="lazy"><div>
+
 Scythe of Vechor: over seven feet, bald, bearded, bull horns.
+
+</div></div>
 
 ## Dragoth
 
@@ -62,7 +74,11 @@ After each hammer blow he is <span class="thing">staggered</span>: strike his he
 
 ## Viessa
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/scythe_viessa.png" alt="Viessa" loading="lazy"><div>
+
 Scythe of Truacia: very pale, long purple hair, robes hung with bones.
+
+</div></div>
 
 ## Viessa
 
@@ -72,7 +88,11 @@ Illusions and the dead. Her <span class="thing">doubles</span> look and move as 
 
 ## Seris
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/scythe_seris.png" alt="Seris" loading="lazy"><div>
+
 Scythe of Sehz-Clar: slender, pearl-white hair, long spiral horns.
+
+</div></div>
 
 ## Seris
 
@@ -82,7 +102,11 @@ Scythe of Sehz-Clar: slender, pearl-white hair, long spiral horns.
 
 ## Nico Sever
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/scythe_nico.png" alt="Nico Sever" loading="lazy"><div>
+
 Scythe of the Central Dominion: black clothes, no horns.
+
+</div></div>
 
 ## Nico Sever
 

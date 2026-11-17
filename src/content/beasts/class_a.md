@@ -24,7 +24,11 @@ Beasts that carry an <span class="thing">A-class</span> core.
 
 ## Silver Coat Bear
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/silver_coat_bear.png" alt="Silver Coat Bear" loading="lazy"><div>
+
 A silver-furred bear; the novel shows only its A-class core, sold at the Helstea auction.
+
+</div></div>
 
 120 health, mauls for 14, 6 armour. Neutral, groups of 1-3. **Roar**: hurls back and weakens.<br>**Found**: the snowy north, the Beast Glades; Epheotus: Titan Highlands.<br>**Bond**: a cub with salmon, cod, sweet berries or honey, or a core. **Ride**: Roar, Lunge.<br>**Drops**: Silver Coat Bear Pelt; leather, raw cod.
 
@@ -32,7 +36,11 @@ A silver-furred bear; the novel shows only its A-class core, sold at the Helstea
 
 ## World Lion
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/world_lion.png" alt="World Lion" loading="lazy"><div>
+
 Grawder's kind: dark brown, a deep red mane, sabre fangs and the World Howl.
+
+</div></div>
 
 110 health, bites for 13, 4 armour. Neutral, groups of 1-3. **World Howl**: a 16-block beam of force. **Roar**: slows. **Pounce**.<br>**Found**: savannas, the Glades; Epheotus: Cerulean Savanna, Titan Highlands.<br>**Bond**: a cub with beef, mutton or pork, or a core. **Ride**: World Howl, Pounce.<br>**Drops**: World Lion Mane; leather, raw beef.
 
@@ -40,7 +48,11 @@ Grawder's kind: dark brown, a deep red mane, sabre fangs and the World Howl.
 
 ## Giant Spider
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/giant_spider.png" alt="Giant Spider" loading="lazy"><div>
+
 Sword-legged spiders; the novel has 'hound-sized spiders' in the corrupted hordes.
+
+</div></div>
 
 100 health, bites for 12, 6 armour, climbs. Hostile, alone. **Web Shot**: slows and webs you. Its bite poisons.<br>**Found**: dark forests, jungles, old taiga, the Beast Glades; Widow's Crypt, the Hearth.<br>**Bond**: by force only.<br>**Drops**: Giant Spider Silk; string, spider eye, cobweb.<br>*(The novel never names it; the name is ours.)*
 
@@ -48,7 +60,11 @@ Sword-legged spiders; the novel has 'hound-sized spiders' in the corrupted horde
 
 ## Wyvern
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/wyvern.png" alt="Wyvern" loading="lazy"><div>
+
 Avier's kind: rare olive-green kin of the dragons, mended by their own fire.
+
+</div></div>
 
 120 health, bites for 12, 8 armour, flies. Hostile, alone. **Emerald Flame**: burns, healing it by half the harm.<br>**Found**: mountains, the Beast Glades.<br>**Bond**: a core. **Ride**: Emerald Flame, Surge.<br>**Drops**: Wyvern Scale; leather, bone, phantom membrane.
 
@@ -56,7 +72,11 @@ Avier's kind: rare olive-green kin of the dragons, mended by their own fire.
 
 ## Ebon Scourge
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/ebon_scourge.png" alt="Ebon Scourge" loading="lazy"><div>
+
 Eyeless, obsidian-hided, three-horned hunters of Hollow's Edge.
+
+</div></div>
 
 130 health, hits for 15, 8 armour, blind. Hostile, alone or in pairs. **Charge**; a roar that hurls you back. Sneak and it may miss you.<br>**Found**: deep caves, the Beast Glades; its emperor calls more.<br>**Bond**: by force only.<br>**Drops**: Ebon Scourge Horn; bone, leather, black dye.
 
@@ -64,7 +84,11 @@ Eyeless, obsidian-hided, three-horned hunters of Hollow's Edge.
 
 ## Giant Red Worm
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/giant_red_worm.png" alt="Giant Red Worm" loading="lazy"><div>
+
 The Dire Tombs' worm: a glowing red hide and a round mouth ringed with teeth.
+
+</div></div>
 
 110 health, bites for 12, 6 armour, burrows, blind. Hostile, alone. **Burrow**: untouchable, then erupts under you. **Poison Breath**.<br>**Found**: deep caves, the Darv Abyss, the Beast Glades; the Dire Tombs.<br>**Bond**: by force only.<br>**Drops**: Red Worm Ichor; rotten flesh, slimeball.
 
@@ -72,7 +96,11 @@ The Dire Tombs' worm: a glowing red hide and a round mouth ringed with teeth.
 
 ## Tunnelworm
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/titanic_bloodworm.png" alt="Tunnelworm" loading="lazy"><div>
+
 The novel only names tunnelworms. Ours is near thirty blocks long.
+
+</div></div>
 
 160 health, bites for 14, 8 armour, burrows, blind. Hostile, alone. **Burrow**: erupts under you. It heals on its bites.<br>**Found**: deep caves, the Darv Abyss, the Glades Depths.<br>**Bond**: by force only.<br>**Drops**: Tunnelworm Heart; rotten flesh, redstone dust.
 
@@ -80,7 +108,11 @@ The novel only names tunnelworms. Ours is near thirty blocks long.
 
 ## Frost-claw Bear
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/frost_claw_bear.png" alt="Frost-claw Bear" loading="lazy"><div>
+
 Not in the novel: a white bear of ours whose claws carry frost.
+
+</div></div>
 
 140 health, mauls for 14, 6 armour. Neutral, alone or in pairs. **Slam**: frost that slows, freezes, ices water. Freezing claws. **Roar**: slows.<br>**Found**: snowy lands and frozen peaks.<br>**Bond**: a cub with salmon, cod or sweet berries, or a core. **Ride**: Slam, Roar.<br>**Drops**: Frost Claw; leather, raw cod, packed ice, blue ice (20%).
 
@@ -88,7 +120,11 @@ Not in the novel: a white bear of ours whose claws carry frost.
 
 ## Ghost Bear
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/ghost_bear.png" alt="Ghost Bear" loading="lazy"><div>
+
 Pearl-white, two-ton bears of the Relictombs' caldera that vanish at will.
+
+</div></div>
 
 150 health, mauls for 16, 6 armour. Hostile, alone. **Fade**: even by day; its first blow from hiding is 60% harder. **Stalk**, **Pounce**.<br>**Found**: snowy peaks; the Relictombs' frozen caldera.<br>**Bond**: by force only.<br>**Drops**: Ghost Bear Pelt (60%), Ghost Bear Brow-Bone; leather, bone.
 
@@ -96,7 +132,11 @@ Pearl-white, two-ton bears of the Relictombs' caldera that vanish at will.
 
 ## Thunder Wolf
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/thunder_wolf.png" alt="Thunder Wolf" loading="lazy"><div>
+
 Bear-sized black wolves clad in lightning, led by a horned alpha.
+
+</div></div>
 
 90 health, bites for 12, 4 armour. Hostile, groups of 4-6. **Alpha**: the first of a pack leads, a class higher; its howl rallies them. **Storm**: bites arc lightning.<br>**Found**: mountains, the Glades Depths.<br>**Bond**: by force only.<br>**Drops**: Thunder Wolf Pelt (60%), Charged Fang; leather, bone.
 
@@ -104,7 +144,11 @@ Bear-sized black wolves clad in lightning, led by a horned alpha.
 
 ## Griffon
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/griffon.png" alt="Griffon" loading="lazy"><div>
+
 Eagle-lions with steel-grey wings; Claire Bladeheart's exoform was built on one.
+
+</div></div>
 
 110 health, strikes for 12, 4 armour, flies. Neutral, alone or in pairs. **Dive**. **Gust Buffet**: struck, it blows all near away. **Pounce**.<br>**Found**: mountains, the Glades Depths.<br>**Bond**: raw beef, mutton, rabbit or chicken, or a core. **Ride**: Gust Buffet, Surge.<br>**Drops**: Griffon Flight Feather, Griffon Talon (40%); feather, leather.
 
@@ -112,7 +156,11 @@ Eagle-lions with steel-grey wings; Claire Bladeheart's exoform was built on one.
 
 ## Charwood Glider
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/charwood_glider.png" alt="Charwood Glider" loading="lazy"><div>
+
 A palm-sized A-class glider of the charwood trees, moon-eyed and hungry.
+
+</div></div>
 
 45 health, bites for 6, fast, flies, fireproof. Neutral, alone or in pairs. Its bite burns. It dodges many blows.<br>**Found**: the Glades Depths.<br>**Bond**: glow or sweet berries, or a core.<br>**Drops**: Glider Membrane (50%), Moon-silver Eye (10%); charcoal.<br>*(The novel never names it; the name is ours.)*
 
@@ -120,7 +168,11 @@ A palm-sized A-class glider of the charwood trees, moon-eyed and hungry.
 
 ## Horde Caller
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/horde_caller.png" alt="Horde Caller" loading="lazy"><div>
+
 A bipedal canine three men tall whose howl launched the horde at the Wall.
+
+</div></div>
 
 220 health, bites for 16, 6 armour. Hostile, alone. **Howl**: wild hostile beasts near join its hunt, stronger. Calls black-fanged wolves. Burning bite.<br>**Found**: the Glades Depths.<br>**Bond**: by force only.<br>**Drops**: Horde Caller Fang (60%), Ragged Grey Pelt (60%); leather, bone.<br>*(The novel never names it; the name is ours.)*
 
@@ -128,7 +180,11 @@ A bipedal canine three men tall whose howl launched the horde at the Wall.
 
 ## Mirror Phantom
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/mirror_phantom.png" alt="Mirror Phantom" loading="lazy"><div>
+
 A phantom in the face of whoever touched the mirror; only its eyes are violet.
+
+</div></div>
 
 90 health, strikes for 12, 4 armour. Hostile, alone. Wears your skin and weapon (for show). Kill it to get out from behind the glass.<br>**Found**: the Relictombs only. Hall of mirrors.<br>**Bond**: never.<br>**Drops**: Aether Mote (50%); amethyst shard.
 
@@ -136,6 +192,10 @@ A phantom in the face of whoever touched the mirror; only its eyes are violet.
 
 ## Invisible Centaur
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/invisible_centaur.png" alt="Invisible Centaur" loading="lazy"><div>
+
 The orange platforms' unseen centaurs. Killed, they simply vanish.
+
+</div></div>
 
 110 health, spears for 14, 6 armour. Hostile, groups of 1-3. **Unseen**: a shimmer when it moves, a flicker when struck; anything that outlines shows it. **Charge** with its spear.<br>**Found**: the Relictombs only. Orange platforms.<br>**Bond**: by force only.<br>**Drops**: Aether Mote (50%); leather, flint.<br>*The glass and spear are ours.*

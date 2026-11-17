@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/mana_assessor_spawn_egg.png"
 
 ## Mana Assessor
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/mana_assessor.png" alt="Mana Assessor" loading="lazy"><div>
+
 A guild examiner-mage with a lit crystal.
+
+</div></div>
 
 ## The Assessment
 

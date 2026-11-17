@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/caeras_pendant.png"
 
 ## Caera Denoir
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/caera_denoir.png" alt="Caera Denoir" loading="lazy"><div>
+
 A Vritra-blooded ascender of Highblood Denoir.
+
+</div></div>
 
 ## Meeting Her
 

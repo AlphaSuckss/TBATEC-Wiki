@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/windsom_spawn_egg.png"
 
 ## Windsom
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/windsom.png" alt="Windsom" loading="lazy"><div>
+
 Lord Indrath's envoy, who watched Dicathen in disguise.
+
+</div></div>
 
 ## Where
 

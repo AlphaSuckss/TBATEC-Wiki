@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/suncrusher.png"
 
 ## Chul
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/chul_asclepius.png" alt="Chul" loading="lazy"><div>
+
 Half phoenix, half djinn; loud, proud, eager to fight.
+
+</div></div>
 
 ## Meeting Him
 

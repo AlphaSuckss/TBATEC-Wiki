@@ -8,7 +8,11 @@ icon: "/img/item/tbatec/adventurer_badge_c.png"
 
 ## Guild Clerk
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/guild_clerk.png" alt="Guild Clerk" loading="lazy"><div>
+
 A clerk behind the guild's glass counter.
+
+</div></div>
 
 ## Registering
 

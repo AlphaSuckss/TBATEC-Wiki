@@ -24,7 +24,11 @@ Beasts that carry a <span class="thing">C-class</span> core.
 
 ## Nightmare Fox
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/nightmare_fox.png" alt="Nightmare Fox" loading="lazy"><div>
+
 A black fox the novel knows only as fine coats. Everything else here is ours.
+
+</div></div>
 
 30 health, bites for 9, fast. Hostile by night, alone. **Pounce**; half its bites weaken. Hunts hounds, rats and batrunners.<br>**Found**: taiga and forests, the Beast Glades; Epheotus: Basilisk Spires.<br>**Bond**: a core.<br>**Drops**: Nightmare Fox Tail (50%); leather, black dye.
 
@@ -32,7 +36,11 @@ A black fox the novel knows only as fine coats. Everything else here is ours.
 
 ## Thunder Hawk
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/thunder_hawk.png" alt="Thunder Hawk" loading="lazy"><div>
+
 A storm hawk the novel knows only by its core, set in a sword that crackles with lightning.
+
+</div></div>
 
 28 health, strikes for 6, 2 armour, flies. Neutral, alone. **Call Lightning**: a beam marks you, then lightning strikes there. **Snatch**: lifts small prey.<br>**Found**: jungles, forests, the Beast Glades; Epheotus: Sylph Tempest.<br>**Bond**: a core.<br>**Drops**: Thunder Hawk Feather; feather, raw chicken.
 
@@ -40,7 +48,11 @@ A storm hawk the novel knows only by its core, set in a sword that crackles with
 
 ## Blight Hob
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/blight_hob.png" alt="Blight Hob" loading="lazy"><div>
+
 A mangy rat-goblin that hides among other beasts; its tongue is a rare delicacy.
+
+</div></div>
 
 32 health, claws for 5. Hostile, alone. **Disguise**: a sheep, pig or cow till you come close or hit it. **Poison Breath**.<br>**Found**: anywhere in the dark, most in the Beast Glades.<br>**Bond**: by force only.<br>**Drops**: Blight Hob Tongue (25%); rotten flesh, slimeball.
 
@@ -48,7 +60,11 @@ A mangy rat-goblin that hides among other beasts; its tongue is a rare delicacy.
 
 ## Spear Beak
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/spear_beak.png" alt="Spear Beak" loading="lazy"><div>
+
 Stilt-legged white birds with javelin beaks: in the novel, a Relictombs people.
+
+</div></div>
 
 24 health, stabs for 6, flies. Hostile, groups of 3-5. **Dive**: half through armour; they take turns. **Spit**: withering sludge.<br>**Found**: snowy peaks, slopes and groves; the Beast Glades.<br>**Bond**: fish, or a core.<br>**Drops**: Spear Beak Bill; feather, flint.
 
@@ -56,7 +72,11 @@ Stilt-legged white birds with javelin beaks: in the novel, a Relictombs people.
 
 ## Rocavid
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/rocavid.png" alt="Rocavid" loading="lazy"><div>
+
 Alacrya's giant deer, antlers on head, spine and club-tail; prized for leather.
+
+</div></div>
 
 60 health, gores for 9, 4 armour. Neutral, groups of 1-3. **Tail Club**: hits all behind and beside it. **Charge**.<br>**Found**: taiga, old birch forests and meadows.<br>**Bond**: by force only.<br>**Drops**: Rocavid Hide, Rocavid Antler (35%); leather, raw beef.
 
@@ -64,7 +84,11 @@ Alacrya's giant deer, antlers on head, spine and club-tail; prized for leather.
 
 ## Carallian
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/carallian.png" alt="Carallian" loading="lazy"><div>
+
 Porcelain imps of the Relictombs with great heads and red claws, clawing up in waves.
+
+</div></div>
 
 26 health, claws for 6. Hostile, groups of 3-5. **Burrow**: claws up under you. **Roar**: a scream that slows.<br>**Found**: the Relictombs only.<br>**Bond**: by force only.<br>**Drops**: Aether Mote (35%), Carallian Spike; bone, rotten flesh.
 
@@ -72,7 +96,11 @@ Porcelain imps of the Relictombs with great heads and red claws, clawing up in w
 
 ## Chimera
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/chimera.png" alt="Chimera" loading="lazy"><div>
+
 Statue-born Relictombs constructs of stone and aether, blades for arms.
+
+</div></div>
 
 34 health, slashes for 7, 4 armour. Hostile, groups of 2-3. **Lie in Wait**: a statue till you're within 5. **Roar**: weakens.<br>**Found**: the Relictombs only.<br>**Bond**: by force only.<br>**Drops**: Aether Mote (40%), Chimera Bone Blade (35%); bone, rotten flesh.
 
@@ -80,7 +108,11 @@ Statue-born Relictombs constructs of stone and aether, blades for arms.
 
 ## Steelbeak
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/steelbeak.png" alt="Steelbeak" loading="lazy"><div>
+
 Bat-winged birds with beaks of steel that dove on the Wall's defenders in flocks.
+
+</div></div>
 
 18 health, stabs for 5, 2 armour, flies. Hostile, groups of 4-6. **Dive**: half through armour; the flock takes turns.<br>**Found**: dark and old birch forests, the Beast Glades.<br>**Bond**: by force only.<br>**Drops**: Steel Beak (50%); feather, iron nugget.<br>*(The novel never names it; the name is ours.)*
 
@@ -88,7 +120,11 @@ Bat-winged birds with beaks of steel that dove on the Wall's defenders in flocks
 
 ## Scarlet Harpy
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/scarlet_harpy.png" alt="Scarlet Harpy" loading="lazy"><div>
+
 Crimson harpies that burst from the Glades' trees in covens, not easily cowed.
+
+</div></div>
 
 30 health, rakes for 6, 2 armour, flies. Hostile, groups of 3-5. **Shriek**: hurls back and sickens. **Dive**: half through armour.<br>**Found**: jungles, dark forests, the Beast Glades.<br>**Bond**: by force only.<br>**Drops**: Scarlet Plume; feather.<br>*The look is ours.*
 
@@ -96,7 +132,11 @@ Crimson harpies that burst from the Glades' trees in covens, not easily cowed.
 
 ## Two-headed Serpent
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/twinhead_serpent.png" alt="Two-headed Serpent" loading="lazy"><div>
+
 A serpent with a viper's head at each end, out of Elshire's fog with the horde.
+
+</div></div>
 
 40 health, bites for 6, 3 armour. Hostile, alone or in pairs. Its bite poisons; its hiss hurls you back.<br>**Found**: the Forest of Elshire and its canopy.<br>**Bond**: by force only.<br>**Drops**: Twinhead Fang (50%), Banded Serpent Skin; leather, spider eye.<br>*(The novel never names it; the name is ours.)*
 
@@ -104,7 +144,11 @@ A serpent with a viper's head at each end, out of Elshire's fog with the horde.
 
 ## Stinger
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/stinger.png" alt="Stinger" loading="lazy"><div>
+
 Pack hunters whose venom creeps to the mana core and seals it off.
+
+</div></div>
 
 28 health, stings for 6, 5 armour. Hostile, groups of 3-4. Its sting may poison, or seal your mana: no regen, and it bleeds away. **Stalk**, **Pounce**.<br>**Found**: badlands, the Beast Glades.<br>**Bond**: by force only.<br>**Drops**: Stinger Venom Sac (40%), Stinger Barb; spider eye.<br>*The look is ours.*
 
@@ -112,7 +156,11 @@ Pack hunters whose venom creeps to the mana core and seals it off.
 
 ## Tree Golem
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/tree_golem.png" alt="Tree Golem" loading="lazy"><div>
+
 Elshire's walking trees, the bogeymen of elven children.
+
+</div></div>
 
 60 health, hits for 9, 6 armour, slow. Hostile, alone. **Lie in Wait**: a tree till you're within 6. **Slam**. Fire hurts it more.<br>**Found**: Elshire, dark and old birch forests.<br>**Bond**: by force only.<br>**Drops**: Tree Golem Heartwood (50%); oak log, stick, moss block.<br>*Only named in the novel; the look is ours.*
 
@@ -120,7 +168,11 @@ Elshire's walking trees, the bogeymen of elven children.
 
 ## Gnoll
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/gnoll.png" alt="Gnoll" loading="lazy"><div>
+
 Hyena-faced dog-men in breastplates, by the hundred in mountain dungeons.
+
+</div></div>
 
 34 health, slashes for 7, 6 armour. Hostile, groups of 2-4. **Pack Leader**: the first of a pack leads it, a class higher; its howl rallies the rest.<br>**Found**: caves under mountains, the Beast Glades.<br>**Bond**: by force only.<br>**Drops**: Gnoll Fang (30%); bone, leather, iron nugget.
 
@@ -128,7 +180,11 @@ Hyena-faced dog-men in breastplates, by the hundred in mountain dungeons.
 
 ## Orc
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/orc.png" alt="Orc" loading="lazy"><div>
+
 Big tusked brutes with crude halberds, swarming the dungeons beside the gnolls.
+
+</div></div>
 
 46 health, hacks for 10, 5 armour. Hostile, groups of 2-3. **War Cry**: orcs and gnolls near take up its prey, stronger and faster. **Charge**.<br>**Found**: caves under mountains, the Beast Glades.<br>**Bond**: by force only.<br>**Drops**: Orc Tusk (30%); iron nugget, leather, rotten flesh.
 
@@ -136,7 +192,11 @@ Big tusked brutes with crude halberds, swarming the dungeons beside the gnolls.
 
 ## Thorned Growler
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/thorned_growler.png" alt="Thorned Growler" loading="lazy"><div>
+
 A grey, furry, thorny lizard-beast; one fought for Draneeve at Xyrus Academy.
+
+</div></div>
 
 30 health, bites for 7, 3 armour. Hostile, alone or in pairs. **Flip**: struck close, it somersaults away. Its thorns cut back. **Pounce**.<br>**Found**: forests, Elshire, the Beast Glades.<br>**Bond**: by force only.<br>**Drops**: Growler Thorn; leather, stick.
 
@@ -144,6 +204,10 @@ A grey, furry, thorny lizard-beast; one fought for Draneeve at Xyrus Academy.
 
 ## Fly-trap Lure
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/flytrap_lure.png" alt="Fly-trap Lure" loading="lazy"><div>
+
 Nearly invisible: only a toothed mouth and the glowing fruit in it show.
+
+</div></div>
 
 70 health, snaps for 9, 2 armour, slow. Hostile, alone. **Bait Fruit**: snaps on whoever comes for the fruit. **Shriek**: Slowness IV. **Go Limp**: four quick hits and it sags (x1.5).<br>**Found**: the Relictombs only. Two-way jungle.<br>**Bond**: by force only.<br>**Drops**: Slimeball, glow berries.

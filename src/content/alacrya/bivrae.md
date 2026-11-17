@@ -10,7 +10,11 @@ The last <span class="thing">Retainer</span> of Truacia, one of the Dead Three: 
 
 ## Bivrae
 
+<div class="portrait-row"><img class="portrait" src="/img/entity/retainer_bivrae.png" alt="Bivrae" loading="lazy"><div>
+
 Truacia's last Retainer: grey, gaunt, a sheer black robe.
+
+</div></div>
 
 ## The Rot Cellar
 
